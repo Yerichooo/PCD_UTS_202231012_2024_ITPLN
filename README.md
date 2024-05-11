@@ -130,3 +130,18 @@ Kode di atas menggunakan plt.subplot untuk menampilkan empat subplot secara berd
 > Subplot ketiga menampilkan hasil deteksi warna merah (red_detection) dengan judul "Merah".
 > Subplot keempat menampilkan hasil deteksi warna hijau (green_detection) dengan judul "Hijau".
 plt.show() digunakan untuk menampilkan figur, keempat subplot tersebut.
+
+#Konsep teori yang terkait pada project diatas
+-
+1. skema warna HSV
+2. histogram warna
+3. mendeteksi warna
+4. operasi peningkatan kecerahan
+
+sumber:
+https://www.w3schools.com/python/
+https://stackoverflow.com/questions/24852345/hsv-to-rgb-color-conversion
+https://www.geeksforgeeks.org/visualizing-colors-in-images-using-histogram-in-python/
+https://medium.com/@gowtham180502/how-to-detect-colors-using-opencv-python-98aa0241e713
+https://www.google.co.id/?hl=id
+https://stackoverflow.com/questions/32609098/how-to-fast-change-image-brightness-with-python-opencv

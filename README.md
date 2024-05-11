@@ -104,7 +104,7 @@ red_upper2 = np.array([180, 255, 255])*
 *green_lower = np.array([40, 50, 50])
 green_upper = np.array([80, 255, 255])* <br>
 
-Kode di atas membaca gambar dengan nama 'Nama.jpg' menggunakan OpenCV (cv2.imread('Nama.jpg')). Gambar tersebut kemudian dimasukkan ke dalam fungsi increase_brightness untuk meningkatkan kecerahannya, dan hasilnya disimpan dalam variabel brightened_image.
+Kode di atas membaca gambar dengan nama 'Nama.jpg'. Gambar tersebut kemudian dimasukkan ke dalam fungsi increase_brightness untuk meningkatkan kecerahannya, dan hasilnya disimpan dalam variabel brightened_image.
 > Rentang warna biru ditentukan dengan blue_lower dan blue_upper.
 > Rentang warna merah dibagi menjadi dua bagian. Rentang pertama adalah red_lower1 dan red_upper1, sementara rentang kedua adalah red_lower2 dan red_upper2.
 > Rentang warna hijau ditentukan dengan green_lower dan green_upper.
